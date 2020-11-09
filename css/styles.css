@@ -1,5 +1,4 @@
 body {
-
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -48,14 +47,14 @@ p {
 }
 
 .middle-container {
-margin: 100px 0;
+  margin: 100px 0;
 }
 
 
 .bottom-container {
-background-color: #66BFBF;
-width: 100%;
-height: 100px;
+  background-color: #66BFBF;
+  width: 100%;
+  height: 100px;
 }
 
 .pro {
@@ -77,12 +76,12 @@ height: 100px;
 
 
 
-a{
-   margin-bottom: 50px;
+a {
+  margin-bottom: 50px;
   color: #120136;
-    font-family: 'Montserrat', sans-serif;
-    margin: 10px 20px;
-    text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
 }
 
 a:hover {
@@ -119,20 +118,19 @@ a:hover {
 .classname {
   margin-left: 90px;
   margin-bottom: 70px;
-	background-color: rgba(51,51,51,.8);
-	border-radius:6px;
-text-indent:0;
-	display:inline-block;
-	color:#ffffff;
+  background-color: rgba(51,51,51,.8);
+  border-radius:6px;
+  text-indent:0;
+  display:inline-block;
+  color:#ffffff;
   font-family: 'Montserrat', sans-serif;
-	font-size:15px;
-	font-weight:bold;
-	font-style:normal;
-height:50px;
-	line-height:50px;
-width:140px;
-transition: ease-in 0.25s;
-
+  font-size:15px;
+  font-weight:bold;
+  font-style:normal;
+  height:50px;
+  line-height:50px;
+  width:140px;
+  transition: ease-in 0.25s;
 }
 
 .classname:hover {
